@@ -15,8 +15,8 @@ I am a junior data analyst with experience in civil society projects and a backg
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?logo=matplotlib&logoColor=white&style=flat)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=seaborn&logoColor=white&style=flat)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Power%20BI&logoColor=black&style=flat)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
 
 ### Connect with Me:
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:elif.atasal@gmail.com)
