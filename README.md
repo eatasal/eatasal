@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Elif Atasal
 - 👀 I’m interested in Data Analysis, Data Visualization and Storytelling
 - 🌱 I’m deeply learning SQL, Python, PowerBI
-- ⚡ If you wish to understand data in depth, you must not disregard the unpredictable human behaviors and cultural codes that accompany it. 
+- 👩‍💻 I'm Kaggle enthusiast. Check out my [Kaggle profile](https://www.kaggle.com/elifatasal).
+- 🎯 If you wish to understand data in depth, you must not disregard the unpredictable human behaviors and cultural codes that accompany it. 
 
 # ☀️ About Me
 
